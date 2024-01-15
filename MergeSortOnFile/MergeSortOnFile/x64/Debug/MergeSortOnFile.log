@@ -1,0 +1,7 @@
+﻿  MergeSortOnFile.cpp
+C:\Users\meles\Pulpit\informatyka\V sem\sbd\MergeSortOnFile\MergeSortOnFile\MergeSortOnFile.cpp(67,32): warning C4244: "=": konwersja z "std::streamoff" do "int", możliwa utrata danych
+C:\Users\meles\Pulpit\informatyka\V sem\sbd\MergeSortOnFile\MergeSortOnFile\MergeSortOnFile.cpp(125,46): warning C4244: "=": konwersja z "std::streamoff" do "int", możliwa utrata danych
+C:\Users\meles\Pulpit\informatyka\V sem\sbd\MergeSortOnFile\MergeSortOnFile\MergeSortOnFile.cpp(367,30): warning C4566: znak przedstawiony przez nazwę zawierającą znaki uniwersalne "\uFFFD" nie może być przedstawiony w bieżącej stronie kodowej (1250)
+C:\Users\meles\Pulpit\informatyka\V sem\sbd\MergeSortOnFile\MergeSortOnFile\MergeSortOnFile.cpp(394,18): warning C4566: znak przedstawiony przez nazwę zawierającą znaki uniwersalne "\uFFFD" nie może być przedstawiony w bieżącej stronie kodowej (1250)
+C:\Users\meles\Pulpit\informatyka\V sem\sbd\MergeSortOnFile\MergeSortOnFile\MergeSortOnFile.cpp(444,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  MergeSortOnFile.vcxproj -> C:\Users\meles\Pulpit\informatyka\V sem\sbd\MergeSortOnFile\x64\Debug\MergeSortOnFile.exe
